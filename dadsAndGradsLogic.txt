@@ -1,0 +1,31 @@
+Dads and Grads
+A joint Father’s Day and graduation party is being thrown for Michael, Ken, James, Alberto, Elias, and Stephanie. Three of them are newly minted high school graduates. The other three are their dads.
+Stephanie went to the senior prom with Michael’s son.
+Elias and James played on the school’s baseball team. One of them is Alberto’s son.
+Michael and Elias are not related.
+Can you match the high school graduates to their fathers at this joint celebration?
+
+Tia’s answer:
+*=dad found
+
+1) Delineate the male names from the female names: 
+Male: Michael, Ken, James, Alberto, Elias
+Female: Stephanie
+
+There are 3 dads and 6 people in total so the ratio of dads to children is 1:1.
+
+*Stephanie went to senior prom with Michael’s son, so Michael must be a dad. 
+
+Elias and James played on the school’s baseball team, implying that they are high school students. *One of them is Alberto’s son, so Alberto is a dad. Alberto’s son is either Elias or James.
+
+Michael and Elias are not related, meaning Michael can’t be Elias’ dad.
+
+Stephanies dad is not Michael because she went to pro with Michael’s son. 
+
+The dads are Alberto, Michael, and Ken. 
+Alberto’s child possibilities are Elias and James.
+Micheal’s child possibility is James.
+Ken’s possibilities are Stephanie and Elias.
+
+Since Michael is Jame’s dad, Alberto must Elias’ dad. Since Alberto is Elias’ dad, Ken must be Stephanie’s dad.
+Answer: Micheal’s son is James, Alberto’s son is Elias, and Ken’s daughter is Stephanie.
