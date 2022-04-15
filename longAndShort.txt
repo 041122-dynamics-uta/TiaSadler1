@@ -1,0 +1,20 @@
+The Long and the Short of It:
+Here’s a great logic puzzle for kids: Six neighborhood children (Leisha, Benito, Delia, Charlotte, Weldon, and Zina) were measured yesterday.
+Weldon is taller than Delia but shorter than Zina.
+Leisha is taller than Benito but shorter than Delia and Weldon.
+Benito is not the shortest.
+Can you put them in order of height from tallest to shortest?
+
+Tia’s Answer:
+Step 1: Convert word problem into comparison format. 
+-Weldon is greater than Delia AND Weldon is less than Zina
+-Leisha is greater than Benito AND Leisha is less than Delia and Welson
+-Benito is not the least (shortest)
+
+Step 2: List the names in the order given in the parameters from greatest to least, excluding the people not mentioned:
+Zina, Weldon, Delia
+
+List the names in order from greatest to least including previously ordered names:
+Zina, Weldon, Delia, Leisha, Benito => Benito cannot be last, therefore:
+
+Zina, Weldon, Delia, Leisha, Benito, Charlotte
