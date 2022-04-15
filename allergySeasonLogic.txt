@@ -1,0 +1,17 @@
+Allergy Season
+Five friends (Allegra, Ben, Clara, Flora, and Zach) are each allergic to something different: pollen, shellfish, bee stings, cats, or nuts.
+Allegra has a food allergy
+Ben can play with his kitten for hours without issue (or medicine).
+Clara’s allergy is not related to animals.
+Flora has seasonal allergies.
+Can you figure out who is allergic to what?
+
+Allegra has a food allergy. The foods listed are shellfish and nuts. Allegra is allergic to either shellfish or nuts.
+
+Ben is not allergic to cats because he can play with his cat without an adverse reaction. 
+
+Clara’s allergy is not related to animals. Cats are animals, therefore Clara is not allergic to cats. A shellfish is an animal too, so she’s probably not allergic to shellfish. 
+
+Flora has seasonal allergies so, she is allergic to pollen. 
+
+Allegra is allergic to shellfish, Ben to bee stings, Clara to nuts, Flora to pollen, and Zach to cats.
