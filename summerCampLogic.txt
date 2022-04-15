@@ -1,0 +1,30 @@
+Summer Camp
+Abigail, Oliver, Rosa, and Blake all attend the same summer camp, where they can cook, kayak, rock climb, and zip-line. Each child has a different favorite activity.
+		Abigail’s favorite activity isn’t rock climbing.
+		Oliver is afraid of heights.
+		Rosa can’t do her favorite activity without a harness.
+		Blake likes to keep his feet on the ground at all times.
+Can you figure out who likes what?  
+
+Tia’s Answer:
+First, I’ll number the parameters given in the logic puzzle:
+		1. Abigail’s favorite activity isn’t rock climbing.
+		2. Oliver is afraid of heights.
+		3. Rosa can’t do her favorite activity without a harness.
+		4. Blake likes to keep his feet on the ground at all times.
+		
+		According to parameter 1, Abigail’s favorite activity cannot be rock climbing. Therefore, the available options are cook, kayak, and zip-line.
+		Parameter 2 says Oliver is afraid of heights, ruling out activities like rock climbing and zip-lining.
+		Parameter 3 states Rosa can’t do her favorite activity without a harness, therefore she must be either rock climbing or zip lining.
+		Parameter 4 indicates Blake’s activity must involve his feet touching the ground, eliminating kayak, zip-line, and rock climbing. Therefore, Blake must be cooking because it’s the only activity requiring his feet being on the ground at all times.
+		
+		As it stands the possibilities are: 
+		
+		Abigail: Zip-Line — (Cooking is eliminated because Blake is cooking, Kayaking is eliminated because Oliver is kayaking)
+		Oliver: Kayak — (Cooking is eliminated because Blake is cooking)
+		Rosa: Rock Climb — (Zip-lining is eliminated because Abigail is zip-lining)
+		Blake: Cook — (The only activity in the list that require feet on the ground)
+		
+		Answer: Abigail likes to zip-line, Oliver likes to kayak, Rosa likes to rock climb, and Blake likes to cook
+		
+
