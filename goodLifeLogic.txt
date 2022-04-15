@@ -1,0 +1,20 @@
+The Good Life
+Each of five neighborhood dogs (Saber, Ginger, Nutmeg, Pepper, and Bear) is enjoying one of the following activities: getting its ears scratched, playing catch, taking a nap, burying a chew toy, and going for a walk.
+		Pepper is either playing catch or burying a chew toy.
+		Neither Ginger nor Saber nor Bear is on a walk.
+		One of the dogs named after a spice is getting its ears scratched.
+		A dog not named for a spice is playing catch.
+		Bear is getting some exercise.
+Can you figure out what each pooch is doing? 
+
+Tia’s Answer:
+First, I’ll number each param :
+	1.	Pepper is either playing catch or burying a chew toy.
+	2.	Neither Ginger nor Saber nor Bear is on a walk.
+	3.	One of the dogs named after a spice is getting its ears scratched.
+	4.	A dog not named for a spice is playing catch.
+	5.	Bear is getting some exercise.
+
+Then, I’ll reinterpret what the parameters are saying:
+Param 1 establishes Pepper’s activities as one of the following: Playing catch, burying a chew toy
+Param 2 eliminates ‘on a walk’ for Ginger, Saber, and Bear
