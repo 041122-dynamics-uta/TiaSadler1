@@ -1,0 +1,15 @@
+/Users/tiasadler/Desktop/Revature/switchCaseApp/bin/Debug/net6.0/switchCaseApp
+/Users/tiasadler/Desktop/Revature/switchCaseApp/bin/Debug/net6.0/switchCaseApp.deps.json
+/Users/tiasadler/Desktop/Revature/switchCaseApp/bin/Debug/net6.0/switchCaseApp.runtimeconfig.json
+/Users/tiasadler/Desktop/Revature/switchCaseApp/bin/Debug/net6.0/switchCaseApp.dll
+/Users/tiasadler/Desktop/Revature/switchCaseApp/bin/Debug/net6.0/switchCaseApp.pdb
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/switchCaseApp.csproj.AssemblyReference.cache
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/switchCaseApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/switchCaseApp.AssemblyInfoInputs.cache
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/switchCaseApp.AssemblyInfo.cs
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/switchCaseApp.csproj.CoreCompileInputs.cache
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/switchCaseApp.dll
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/refint/switchCaseApp.dll
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/switchCaseApp.pdb
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/switchCaseApp.genruntimeconfig.cache
+/Users/tiasadler/Desktop/Revature/switchCaseApp/obj/Debug/net6.0/ref/switchCaseApp.dll
